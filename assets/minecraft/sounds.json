@@ -1,0 +1,60 @@
+{
+  "entity.villager.ambient": {
+    "replace": true,
+    "sounds": [
+      "mob/villager/idle1",
+      "mob/villager/idle2",
+      "mob/villager/idle3",
+      "mob/villager/idle4",
+      "mob/villager/idle5",
+      "mob/villager/idle6",
+      "mob/villager/idle7",
+      "mob/villager/idle8",
+      "mob/villager/idle9"
+    ]
+  },
+  "entity.villager.death": {
+    "replace": true,
+    "sounds": [
+      "mob/villager/death1",
+      "mob/villager/death2",
+      "mob/villager/death3",
+      "mob/villager/death4"
+    ]
+  },
+  "entity.villager.trade": {
+    "replace": true,
+    "sounds": [
+      "mob/villager/haggle1",
+      "mob/villager/haggle2",
+      "mob/villager/haggle3"
+    ]
+  },
+  "entity.villager.hurt": {
+    "replace": true,
+    "sounds": [
+      "mob/villager/hit1",
+      "mob/villager/hit2",
+      "mob/villager/hit3",
+      "mob/villager/hit4"
+    ]
+  },
+  "entity.villager.no": {
+    "replace": true,
+    "sounds": [
+      "mob/villager/no1",
+      "mob/villager/no2",
+      "mob/villager/no3",
+      "mob/villager/no4"
+    ]
+  },
+  "entity.villager.yes": {
+    "replace": true,
+    "sounds": [
+      "mob/villager/yes1",
+      "mob/villager/yes2",
+      "mob/villager/yes3",
+      "mob/villager/yes4"
+    ]
+  }
+}
