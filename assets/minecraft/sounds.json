@@ -56,5 +56,219 @@
       "mob/villager/yes3",
       "mob/villager/yes4"
     ]
+  },
+  "entity.iron_golem.damage": {
+    "replace": true,
+    "sounds": [
+      "mob/iron_golem/damage1",
+      "mob/iron_golem/damage2",
+      "mob/iron_golem/damage3"
+    ]
+  },
+  "entity.iron_golem.attack": {
+    "replace": true,
+    "sounds": [
+      "mob/iron_golem/attack1",
+      "mob/iron_golem/attack2",
+      "mob/iron_golem/attack3"
+    ]
+  },
+  "entity.iron_golem.death": {
+    "replace": true,
+    "sounds": [
+      "mob/iron_golem/death1",
+      "mob/iron_golem/death2",
+      "mob/iron_golem/death3"
+    ]
+  },
+  "entity.wandering_trader.ambient": {
+    "replace": true,
+    "sounds": [
+      "mob/wandering_trader/ambient1",
+      "mob/wandering_trader/ambient2",
+      "mob/wandering_trader/ambient3",
+      "mob/wandering_trader/ambient4",
+      "mob/wandering_trader/ambient5",
+      "mob/wandering_trader/ambient6",
+      "mob/wandering_trader/ambient7",
+      "mob/wandering_trader/ambient8"
+    ]
+  },
+  "entity.wandering_trader.death": {
+    "replace": true,
+    "sounds": [
+      "mob/wandering_trader/death1",
+      "mob/wandering_trader/death2",
+      "mob/wandering_trader/death3"
+    ]
+  },
+  "entity.wandering_trader.trade": {
+    "replace": true,
+    "sounds": [
+      "mob/wandering_trader/trade1",
+      "mob/wandering_trader/trade2",
+      "mob/wandering_trader/trade3",
+      "mob/wandering_trader/trade4"
+    ]
+  },
+  "entity.wandering_trader.hurt": {
+    "replace": true,
+    "sounds": [
+      "mob/wandering_trader/hurt1",
+      "mob/wandering_trader/hurt2",
+      "mob/wandering_trader/hurt3",
+      "mob/wandering_trader/hurt4"
+    ]
+  },
+  "entity.wandering_trader.yes": {
+    "replace": true,
+    "sounds": [
+      "mob/wandering_trader/yes1",
+      "mob/wandering_trader/yes2",
+      "mob/wandering_trader/yes3"
+    ]
+  },
+  "entity.wandering_trader.no": {
+    "replace": true,
+    "sounds": [
+      "mob/wandering_trader/no1",
+      "mob/wandering_trader/no2",
+      "mob/wandering_trader/no3"
+    ]
+  },
+  "entity.pillager.ambient": {
+    "replace": true,
+    "sounds": [
+      "mob/pillager/ambient1",
+      "mob/pillager/ambient2",
+      "mob/pillager/ambient3",
+      "mob/pillager/ambient4",
+      "mob/pillager/ambient5",
+      "mob/pillager/ambient6"
+    ]
+  },
+  "entity.pillager.hurt": {
+    "replace": true,
+    "sounds": [
+      "mob/pillager/hurt1",
+      "mob/pillager/hurt2",
+      "mob/pillager/hurt3",
+      "mob/pillager/hurt4"
+    ]
+  },
+  "entity.pillager.death": {
+    "replace": true,
+    "sounds": [
+      "mob/pillager/death1",
+      "mob/pillager/death2",
+      "mob/pillager/death3",
+      "mob/pillager/death4"
+    ]
+  },
+  "entity.pillager.celebrate": {
+    "replace": true,
+    "sounds": [
+      "mob/pillager/victory1",
+      "mob/pillager/victory2",
+      "mob/pillager/victory3"
+    ]
+  },
+  "entity.witch.ambient": {
+    "replace": true,
+    "sounds": [
+      "mob/witch/ambient1",
+      "mob/witch/ambient2",
+      "mob/witch/ambient3",
+      "mob/witch/ambient4",
+      "mob/witch/ambient5",
+      "mob/witch/ambient6"
+    ]
+  },
+  "entity.witch.attack": {
+    "replace": true,
+    "sounds": [
+      "mob/witch/attack1",
+      "mob/witch/attack2",
+      "mob/witch/attack3",
+      "mob/witch/attack4"
+    ]
+  },
+  "entity.witch.hurt": {
+    "replace": true,
+    "sounds": [
+      "mob/witch/hurt1",
+      "mob/witch/hurt2",
+      "mob/witch/hurt3",
+      "mob/witch/hurt4"
+    ]
+  },
+  "entity.witch.death": {
+    "replace": true,
+    "sounds": [
+      "mob/witch/death1",
+      "mob/witch/death2",
+      "mob/witch/death3",
+      "mob/witch/death4"
+    ]
+  },
+  "entity.witch.spell": {
+    "replace": true,
+    "sounds": [
+      "mob/witch/spell1",
+      "mob/witch/spell2",
+      "mob/witch/spell3",
+      "mob/witch/spell4"
+    ]
+  },
+  "entity.witch.celebrate": {
+    "replace": true,
+    "sounds": [
+      "mob/witch/celebrate1",
+      "mob/witch/celebrate2",
+      "mob/witch/celebrate3",
+      "mob/witch/celebrate4",
+      "mob/witch/celebrate5",
+      "mob/witch/celebrate6"
+    ]
+  },
+  "entity.zombie_villager.ambient": {
+    "replace": true,
+    "sounds": [
+      "mob/zombie_villager/ambient1",
+      "mob/zombie_villager/ambient2",
+      "mob/zombie_villager/ambient3",
+      "mob/zombie_villager/ambient4",
+      "mob/zombie_villager/ambient5"
+    ]
+  },
+  "entity.zombie_villager.attack": {
+    "replace": true,
+    "sounds": [
+      "mob/zombie_villager/attack"
+    ]
+  },
+  "entity.zombie_villager.hurt": {
+    "replace": true,
+    "sounds": [
+      "mob/zombie_villager/hurt"
+    ]
+  },
+  "entity.zombie_villager.death": {
+    "replace": true,
+    "sounds": [
+      "mob/zombie_villager/death"
+    ]
+  },
+  "entity.zombie_villager.cure": {
+    "replace": true,
+    "sounds": [
+      "mob/zombie_villager/cure"
+    ]
+  },
+  "entity.zombie_villager.celebrate": {
+    "replace": true,
+    "sounds": [
+      "mob/zombie_villager/celebrate"
+    ]
   }
 }
