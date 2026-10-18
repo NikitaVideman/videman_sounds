@@ -1,5 +1,6 @@
 {
   "entity.villager.ambient": {
+    "subtitle": "subtitles.entity.villager.ambient",
     "replace": true,
     "sounds": [
       "mob/villager/idle1",
@@ -14,6 +15,7 @@
     ]
   },
   "entity.villager.death": {
+    "subtitle": "subtitles.entity.villager.death",
     "replace": true,
     "sounds": [
       "mob/villager/death1",
@@ -23,6 +25,7 @@
     ]
   },
   "entity.villager.trade": {
+    "subtitle": "subtitles.entity.villager.trade",
     "replace": true,
     "sounds": [
       "mob/villager/haggle1",
@@ -31,6 +34,7 @@
     ]
   },
   "entity.villager.hurt": {
+    "subtitle": "subtitles.entity.villager.hurt",
     "replace": true,
     "sounds": [
       "mob/villager/hit1",
@@ -40,6 +44,7 @@
     ]
   },
   "entity.villager.no": {
+    "subtitle": "subtitles.entity.villager.no",
     "replace": true,
     "sounds": [
       "mob/villager/no1",
@@ -49,6 +54,7 @@
     ]
   },
   "entity.villager.yes": {
+    "subtitle": "subtitles.entity.villager.yes",
     "replace": true,
     "sounds": [
       "mob/villager/yes1",
@@ -58,6 +64,7 @@
     ]
   },
   "entity.iron_golem.damage": {
+    "subtitle": "subtitles.entity.iron_golem.damage",
     "replace": true,
     "sounds": [
       "mob/iron_golem/damage1",
@@ -66,6 +73,7 @@
     ]
   },
   "entity.iron_golem.attack": {
+    "subtitle": "subtitles.entity.iron_golem.attack",
     "replace": true,
     "sounds": [
       "mob/iron_golem/attack1",
@@ -74,6 +82,7 @@
     ]
   },
   "entity.iron_golem.death": {
+    "subtitle": "subtitles.entity.iron_golem.death",
     "replace": true,
     "sounds": [
       "mob/iron_golem/death1",
@@ -82,6 +91,7 @@
     ]
   },
   "entity.wandering_trader.ambient": {
+    "subtitle": "subtitles.entity.wandering_trader.ambient",
     "replace": true,
     "sounds": [
       "mob/wandering_trader/ambient1",
@@ -95,6 +105,7 @@
     ]
   },
   "entity.wandering_trader.death": {
+    "subtitle": "subtitles.entity.wandering_trader.death",
     "replace": true,
     "sounds": [
       "mob/wandering_trader/death1",
@@ -103,6 +114,7 @@
     ]
   },
   "entity.wandering_trader.trade": {
+    "subtitle": "subtitles.entity.wandering_trader.trade",
     "replace": true,
     "sounds": [
       "mob/wandering_trader/trade1",
@@ -112,6 +124,7 @@
     ]
   },
   "entity.wandering_trader.hurt": {
+    "subtitle": "subtitles.entity.wandering_trader.hurt",
     "replace": true,
     "sounds": [
       "mob/wandering_trader/hurt1",
@@ -121,6 +134,7 @@
     ]
   },
   "entity.wandering_trader.yes": {
+    "subtitle": "subtitles.entity.wandering_trader.yes",
     "replace": true,
     "sounds": [
       "mob/wandering_trader/yes1",
@@ -129,6 +143,7 @@
     ]
   },
   "entity.wandering_trader.no": {
+    "subtitle": "subtitles.entity.wandering_trader.no",
     "replace": true,
     "sounds": [
       "mob/wandering_trader/no1",
@@ -137,6 +152,7 @@
     ]
   },
   "entity.pillager.ambient": {
+    "subtitle": "subtitles.entity.pillager.ambient",
     "replace": true,
     "sounds": [
       "mob/pillager/ambient1",
@@ -148,6 +164,7 @@
     ]
   },
   "entity.pillager.hurt": {
+    "subtitle": "subtitles.entity.pillager.hurt",
     "replace": true,
     "sounds": [
       "mob/pillager/hurt1",
@@ -157,6 +174,7 @@
     ]
   },
   "entity.pillager.death": {
+    "subtitle": "subtitles.entity.pillager.death",
     "replace": true,
     "sounds": [
       "mob/pillager/death1",
@@ -166,6 +184,7 @@
     ]
   },
   "entity.pillager.celebrate": {
+    "subtitle": "subtitles.entity.pillager.celebrate",
     "replace": true,
     "sounds": [
       "mob/pillager/victory1",
@@ -174,6 +193,7 @@
     ]
   },
   "entity.witch.ambient": {
+    "subtitle": "subtitles.entity.witch.ambient",
     "replace": true,
     "sounds": [
       "mob/witch/ambient1",
@@ -185,6 +205,7 @@
     ]
   },
   "entity.witch.attack": {
+    "subtitle": "subtitles.entity.witch.attack",
     "replace": true,
     "sounds": [
       "mob/witch/attack1",
@@ -194,6 +215,7 @@
     ]
   },
   "entity.witch.hurt": {
+    "subtitle": "subtitles.entity.witch.hurt",
     "replace": true,
     "sounds": [
       "mob/witch/hurt1",
@@ -203,6 +225,7 @@
     ]
   },
   "entity.witch.death": {
+    "subtitle": "subtitles.entity.witch.death",
     "replace": true,
     "sounds": [
       "mob/witch/death1",
@@ -212,6 +235,7 @@
     ]
   },
   "entity.witch.spell": {
+    "subtitle": "subtitles.entity.witch.spell",
     "replace": true,
     "sounds": [
       "mob/witch/spell1",
@@ -221,6 +245,7 @@
     ]
   },
   "entity.witch.celebrate": {
+    "subtitle": "subtitles.entity.witch.celebrate",
     "replace": true,
     "sounds": [
       "mob/witch/celebrate1",
@@ -232,6 +257,7 @@
     ]
   },
   "entity.zombie_villager.ambient": {
+    "subtitle": "subtitles.entity.zombie_villager.ambient",
     "replace": true,
     "sounds": [
       "mob/zombie_villager/ambient1",
@@ -241,34 +267,97 @@
       "mob/zombie_villager/ambient5"
     ]
   },
-  "entity.zombie_villager.attack": {
-    "replace": true,
-    "sounds": [
-      "mob/zombie_villager/attack"
-    ]
-  },
   "entity.zombie_villager.hurt": {
+    "subtitle": "subtitles.entity.zombie_villager.hurt",
     "replace": true,
     "sounds": [
-      "mob/zombie_villager/hurt"
+      "mob/zombie_villager/hurt1",
+      "mob/zombie_villager/hurt2",
+      "mob/zombie_villager/hurt3"
     ]
   },
   "entity.zombie_villager.death": {
+    "subtitle": "subtitles.entity.zombie_villager.death",
     "replace": true,
     "sounds": [
-      "mob/zombie_villager/death"
+      "mob/zombie_villager/death1",
+      "mob/zombie_villager/death2",
+      "mob/zombie_villager/death3"
     ]
   },
   "entity.zombie_villager.cure": {
+    "subtitle": "subtitles.entity.zombie_villager.cure",
     "replace": true,
     "sounds": [
-      "mob/zombie_villager/cure"
+      "mob/zombie_villager/cure1",
+      "mob/zombie_villager/cure2"
     ]
   },
-  "entity.zombie_villager.celebrate": {
+  "entity.zombie.ambient": {
+    "subtitle": "subtitles.entity.zombie.ambient",
     "replace": true,
     "sounds": [
-      "mob/zombie_villager/celebrate"
+      "mob/zombie/ambient1",
+      "mob/zombie/ambient2",
+      "mob/zombie/ambient3",
+      "mob/zombie/ambient4",
+      "mob/zombie/ambient5"
+    ]
+  },
+  "entity.zombie.death": {
+    "subtitle": "subtitles.entity.zombie.death",
+    "replace": true,
+    "sounds": [
+      "mob/zombie/death1",
+      "mob/zombie/death2",
+      "mob/zombie/death3"
+    ]
+  },
+  "entity.zombie.hurt": {
+    "subtitle": "subtitles.entity.zombie.hurt",
+    "replace": true,
+    "sounds": [
+      "mob/zombie/hurt1"
+    ]
+  },
+  "entity.skeleton.ambient": {
+    "subtitle": "subtitles.entity.skeleton.ambient",
+    "replace": true,
+    "sounds": [
+      "mob/skeleton/ambient1",
+      "mob/skeleton/ambient2",
+      "mob/skeleton/ambient3",
+      "mob/skeleton/ambient4",
+      "mob/skeleton/ambient5"
+    ]
+  },
+  "entity.skeleton.death": {
+    "subtitle": "subtitles.entity.skeleton.death",
+    "replace": true,
+    "sounds": [
+      "mob/skeleton/death1",
+      "mob/skeleton/death2"
+    ]
+  },
+  "entity.skeleton.hurt": {
+    "subtitle": "subtitles.entity.skeleton.hurt",
+    "replace": true,
+    "sounds": [
+      "mob/skeleton/hurt1",
+      "mob/skeleton/hurt2"
+    ]
+  },
+  "entity.slime.squish": {
+    "subtitle": "subtitles.entity.slime.squish",
+    "replace": true,
+    "sounds": [
+      "mob/slime/squish"
+    ]
+  },
+  "entity.slime.squish_small": {
+    "replace": true,
+    "sounds": [
+      "mob/slime/squish_small"
     ]
   }
 }
