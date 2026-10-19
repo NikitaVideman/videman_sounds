@@ -336,7 +336,8 @@
     "replace": true,
     "sounds": [
       "mob/skeleton/death1",
-      "mob/skeleton/death2"
+      "mob/skeleton/death2",
+      "mob/skeleton/death3"
     ]
   },
   "entity.skeleton.hurt": {
@@ -344,7 +345,8 @@
     "replace": true,
     "sounds": [
       "mob/skeleton/hurt1",
-      "mob/skeleton/hurt2"
+      "mob/skeleton/hurt2",
+      "mob/skeleton/hurt3"
     ]
   },
   "entity.slime.squish": {
@@ -358,6 +360,35 @@
     "replace": true,
     "sounds": [
       "mob/slime/squish_small"
+    ]
+  },
+  "entity.wither_skeleton.ambient": {
+    "subtitle": "subtitles.entity.wither_skeleton.ambient",
+    "replace": true,
+    "sounds": [
+      "mob/wither_skeleton/ambient1",
+      "mob/wither_skeleton/ambient2",
+      "mob/wither_skeleton/ambient3",
+      "mob/wither_skeleton/ambient4",
+      "mob/wither_skeleton/ambient5"
+    ]
+  },
+  "entity.wither_skeleton.death": {
+    "subtitle": "subtitles.entity.wither_skeleton.death",
+    "replace": true,
+    "sounds": [
+      "mob/wither_skeleton/death1",
+      "mob/wither_skeleton/death2",
+      "mob/wither_skeleton/death3"
+    ]
+  },
+  "entity.wither_skeleton.hurt": {
+    "subtitle": "subtitles.entity.wither_skeleton.hurt",
+    "replace": true,
+    "sounds": [
+      "mob/wither_skeleton/hurt1",
+      "mob/wither_skeleton/hurt2",
+      "mob/wither_skeleton/hurt3"
     ]
   }
 }
