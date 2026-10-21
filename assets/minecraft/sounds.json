@@ -390,5 +390,156 @@
       "mob/wither_skeleton/hurt2",
       "mob/wither_skeleton/hurt3"
     ]
+  },
+  "entity.vindicator.ambient": {
+    "subtitle": "subtitles.entity.vindicator.ambient",
+    "replace": true,
+    "sounds": [
+      "mob/vindicator/ambient1",
+      "mob/vindicator/ambient2",
+      "mob/vindicator/ambient3",
+      "mob/vindicator/ambient4",
+      "mob/vindicator/ambient5"
+    ]
+  },
+  "entity.vindicator.death": {
+    "subtitle": "subtitles.entity.vindicator.death",
+    "replace": true,
+    "sounds": [
+      "mob/vindicator/death1",
+      "mob/vindicator/death2",
+      "mob/vindicator/death3"
+    ]
+  },
+  "entity.vindicator.hurt": {
+    "subtitle": "subtitles.entity.vindicator.hurt",
+    "replace": true,
+    "sounds": [
+      "mob/vindicator/hurt1",
+      "mob/vindicator/hurt2",
+      "mob/vindicator/hurt3"
+    ]
+  },
+  "entity.vindicator.celebrate": {
+    "subtitle": "subtitles.entity.vindicator.celebrate",
+    "replace": true,
+    "sounds": [
+      "mob/vindicator/celebrate1",
+      "mob/vindicator/celebrate2",
+      "mob/vindicator/celebrate3"
+    ]
+  },
+  "entity.piglin.ambient": {
+    "subtitle": "subtitles.entity.piglin.ambient",
+    "replace": true,
+    "sounds": [
+      "mob/piglin/ambient1",
+      "mob/piglin/ambient2",
+      "mob/piglin/ambient3",
+      "mob/piglin/ambient4",
+      "mob/piglin/ambient5"
+    ]
+  },
+  "entity.piglin.death": {
+    "subtitle": "subtitles.entity.piglin.death",
+    "replace": true,
+    "sounds": [
+      "mob/piglin/death1",
+      "mob/piglin/death2",
+      "mob/piglin/death3"
+    ]
+  },
+  "entity.piglin.hurt": {
+    "subtitle": "subtitles.entity.piglin.hurt",
+    "replace": true,
+    "sounds": [
+      "mob/piglin/hurt1",
+      "mob/piglin/hurt2",
+      "mob/piglin/hurt3"
+    ]
+  },
+  "entity.piglin.celebrate": {
+    "subtitle": "subtitles.entity.piglin.celebrate",
+    "replace": true,
+    "sounds": [
+      "mob/piglin/celebrate1",
+      "mob/piglin/celebrate2",
+      "mob/piglin/celebrate3"
+    ]
+  },
+  "entity.piglin.admiring_item": {
+    "subtitle": "subtitles.entity.piglin.admiring_item",
+    "replace": true,
+    "sounds": [
+      "mob/piglin/admiring_item1",
+      "mob/piglin/admiring_item2",
+      "mob/piglin/admiring_item3",
+      "mob/piglin/admiring_item4"
+    ]
+  },
+  "entity.piglin.angry": {
+    "subtitle": "subtitles.entity.piglin.angry",
+    "replace": true,
+    "sounds": [
+      "mob/piglin/angry1",
+      "mob/piglin/angry2",
+      "mob/piglin/angry3"
+    ]
+  },
+  "entity.piglin.jealous": {
+    "subtitle": "subtitles.entity.piglin.jealous",
+    "replace": true,
+    "sounds": [
+      "mob/piglin/jealous1", 
+      "mob/piglin/jealous2",  
+      "mob/piglin/jealous3"  
+    ]
+  },
+  "entity.piglin.retreat": {
+    "subtitle": "subtitles.entity.piglin.retreat",
+    "replace": true,
+    "sounds": [
+      "mob/piglin/retreat1",   
+      "mob/piglin/retreat2",  
+      "mob/piglin/retreat3" 
+    ]
+  },
+  "entity.zombified_piglin.ambient": {
+    "subtitle": "subtitles.entity.zombified_piglin.ambient",
+    "replace": true,
+    "sounds": [
+      "mob/zombified_piglin/ambient1",
+      "mob/zombified_piglin/ambient2",
+      "mob/zombified_piglin/ambient3",
+      "mob/zombified_piglin/ambient4",
+      "mob/zombified_piglin/ambient5"
+    ]
+  },
+  "entity.zombified_piglin.death": {
+    "subtitle": "subtitles.entity.zombified_piglin.death",
+    "replace": true,
+    "sounds": [
+      "mob/zombified_piglin/death1",
+      "mob/zombified_piglin/death2",
+      "mob/zombified_piglin/death3"
+    ]
+  },
+  "entity.zombified_piglin.hurt": {
+    "subtitle": "subtitles.entity.zombified_piglin.hurt",
+    "replace": true,
+    "sounds": [
+      "mob/zombified_piglin/hurt1",
+      "mob/zombified_piglin/hurt2",
+      "mob/zombified_piglin/hurt3"
+    ]
+  },
+  "entity.zombified_piglin.angry": {
+    "subtitle": "subtitles.entity.zombified_piglin.angry",
+    "replace": true,
+    "sounds": [
+      "mob/zombified_piglin/angry1",
+      "mob/zombified_piglin/angry2",
+      "mob/zombified_piglin/angry3"
+    ]
   }
 }
