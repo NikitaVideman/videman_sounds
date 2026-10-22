@@ -1,545 +1,633 @@
 {
-  "entity.villager.ambient": {
-    "subtitle": "subtitles.entity.villager.ambient",
-    "replace": true,
-    "sounds": [
-      "mob/villager/idle1",
-      "mob/villager/idle2",
-      "mob/villager/idle3",
-      "mob/villager/idle4",
-      "mob/villager/idle5",
-      "mob/villager/idle6",
-      "mob/villager/idle7",
-      "mob/villager/idle8",
-      "mob/villager/idle9"
-    ]
-  },
-  "entity.villager.death": {
-    "subtitle": "subtitles.entity.villager.death",
-    "replace": true,
-    "sounds": [
-      "mob/villager/death1",
-      "mob/villager/death2",
-      "mob/villager/death3",
-      "mob/villager/death4"
-    ]
-  },
-  "entity.villager.trade": {
-    "subtitle": "subtitles.entity.villager.trade",
-    "replace": true,
-    "sounds": [
-      "mob/villager/haggle1",
-      "mob/villager/haggle2",
-      "mob/villager/haggle3"
-    ]
-  },
-  "entity.villager.hurt": {
-    "subtitle": "subtitles.entity.villager.hurt",
-    "replace": true,
-    "sounds": [
-      "mob/villager/hit1",
-      "mob/villager/hit2",
-      "mob/villager/hit3",
-      "mob/villager/hit4"
-    ]
-  },
-  "entity.villager.no": {
-    "subtitle": "subtitles.entity.villager.no",
-    "replace": true,
-    "sounds": [
-      "mob/villager/no1",
-      "mob/villager/no2",
-      "mob/villager/no3",
-      "mob/villager/no4"
-    ]
-  },
-  "entity.villager.yes": {
-    "subtitle": "subtitles.entity.villager.yes",
-    "replace": true,
-    "sounds": [
-      "mob/villager/yes1",
-      "mob/villager/yes2",
-      "mob/villager/yes3",
-      "mob/villager/yes4"
-    ]
-  },
-  "entity.iron_golem.damage": {
-    "subtitle": "subtitles.entity.iron_golem.damage",
-    "replace": true,
-    "sounds": [
-      "mob/iron_golem/damage1",
-      "mob/iron_golem/damage2",
-      "mob/iron_golem/damage3"
-    ]
-  },
-  "entity.iron_golem.attack": {
-    "subtitle": "subtitles.entity.iron_golem.attack",
-    "replace": true,
-    "sounds": [
-      "mob/iron_golem/attack1",
-      "mob/iron_golem/attack2",
-      "mob/iron_golem/attack3"
-    ]
-  },
-  "entity.iron_golem.death": {
-    "subtitle": "subtitles.entity.iron_golem.death",
-    "replace": true,
-    "sounds": [
-      "mob/iron_golem/death1",
-      "mob/iron_golem/death2",
-      "mob/iron_golem/death3"
-    ]
-  },
-  "entity.wandering_trader.ambient": {
-    "subtitle": "subtitles.entity.wandering_trader.ambient",
-    "replace": true,
-    "sounds": [
-      "mob/wandering_trader/ambient1",
-      "mob/wandering_trader/ambient2",
-      "mob/wandering_trader/ambient3",
-      "mob/wandering_trader/ambient4",
-      "mob/wandering_trader/ambient5",
-      "mob/wandering_trader/ambient6",
-      "mob/wandering_trader/ambient7",
-      "mob/wandering_trader/ambient8"
-    ]
-  },
-  "entity.wandering_trader.death": {
-    "subtitle": "subtitles.entity.wandering_trader.death",
-    "replace": true,
-    "sounds": [
-      "mob/wandering_trader/death1",
-      "mob/wandering_trader/death2",
-      "mob/wandering_trader/death3"
-    ]
-  },
-  "entity.wandering_trader.trade": {
-    "subtitle": "subtitles.entity.wandering_trader.trade",
-    "replace": true,
-    "sounds": [
-      "mob/wandering_trader/trade1",
-      "mob/wandering_trader/trade2",
-      "mob/wandering_trader/trade3",
-      "mob/wandering_trader/trade4"
-    ]
-  },
-  "entity.wandering_trader.hurt": {
-    "subtitle": "subtitles.entity.wandering_trader.hurt",
-    "replace": true,
-    "sounds": [
-      "mob/wandering_trader/hurt1",
-      "mob/wandering_trader/hurt2",
-      "mob/wandering_trader/hurt3",
-      "mob/wandering_trader/hurt4"
-    ]
-  },
-  "entity.wandering_trader.yes": {
-    "subtitle": "subtitles.entity.wandering_trader.yes",
-    "replace": true,
-    "sounds": [
-      "mob/wandering_trader/yes1",
-      "mob/wandering_trader/yes2",
-      "mob/wandering_trader/yes3"
-    ]
-  },
-  "entity.wandering_trader.no": {
-    "subtitle": "subtitles.entity.wandering_trader.no",
-    "replace": true,
-    "sounds": [
-      "mob/wandering_trader/no1",
-      "mob/wandering_trader/no2",
-      "mob/wandering_trader/no3"
-    ]
-  },
-  "entity.pillager.ambient": {
-    "subtitle": "subtitles.entity.pillager.ambient",
-    "replace": true,
-    "sounds": [
-      "mob/pillager/ambient1",
-      "mob/pillager/ambient2",
-      "mob/pillager/ambient3",
-      "mob/pillager/ambient4",
-      "mob/pillager/ambient5",
-      "mob/pillager/ambient6"
-    ]
-  },
-  "entity.pillager.hurt": {
-    "subtitle": "subtitles.entity.pillager.hurt",
-    "replace": true,
-    "sounds": [
-      "mob/pillager/hurt1",
-      "mob/pillager/hurt2",
-      "mob/pillager/hurt3",
-      "mob/pillager/hurt4"
-    ]
-  },
-  "entity.pillager.death": {
-    "subtitle": "subtitles.entity.pillager.death",
-    "replace": true,
-    "sounds": [
-      "mob/pillager/death1",
-      "mob/pillager/death2",
-      "mob/pillager/death3",
-      "mob/pillager/death4"
-    ]
-  },
-  "entity.pillager.celebrate": {
-    "subtitle": "subtitles.entity.pillager.celebrate",
-    "replace": true,
-    "sounds": [
-      "mob/pillager/victory1",
-      "mob/pillager/victory2",
-      "mob/pillager/victory3"
-    ]
-  },
-  "entity.witch.ambient": {
-    "subtitle": "subtitles.entity.witch.ambient",
-    "replace": true,
-    "sounds": [
-      "mob/witch/ambient1",
-      "mob/witch/ambient2",
-      "mob/witch/ambient3",
-      "mob/witch/ambient4",
-      "mob/witch/ambient5",
-      "mob/witch/ambient6"
-    ]
-  },
-  "entity.witch.attack": {
-    "subtitle": "subtitles.entity.witch.attack",
-    "replace": true,
-    "sounds": [
-      "mob/witch/attack1",
-      "mob/witch/attack2",
-      "mob/witch/attack3",
-      "mob/witch/attack4"
-    ]
-  },
-  "entity.witch.hurt": {
-    "subtitle": "subtitles.entity.witch.hurt",
-    "replace": true,
-    "sounds": [
-      "mob/witch/hurt1",
-      "mob/witch/hurt2",
-      "mob/witch/hurt3",
-      "mob/witch/hurt4"
-    ]
-  },
-  "entity.witch.death": {
-    "subtitle": "subtitles.entity.witch.death",
-    "replace": true,
-    "sounds": [
-      "mob/witch/death1",
-      "mob/witch/death2",
-      "mob/witch/death3",
-      "mob/witch/death4"
-    ]
-  },
-  "entity.witch.spell": {
-    "subtitle": "subtitles.entity.witch.spell",
-    "replace": true,
-    "sounds": [
-      "mob/witch/spell1",
-      "mob/witch/spell2",
-      "mob/witch/spell3",
-      "mob/witch/spell4"
-    ]
-  },
-  "entity.witch.celebrate": {
-    "subtitle": "subtitles.entity.witch.celebrate",
-    "replace": true,
-    "sounds": [
-      "mob/witch/celebrate1",
-      "mob/witch/celebrate2",
-      "mob/witch/celebrate3",
-      "mob/witch/celebrate4",
-      "mob/witch/celebrate5",
-      "mob/witch/celebrate6"
-    ]
-  },
-  "entity.zombie_villager.ambient": {
-    "subtitle": "subtitles.entity.zombie_villager.ambient",
-    "replace": true,
-    "sounds": [
-      "mob/zombie_villager/ambient1",
-      "mob/zombie_villager/ambient2",
-      "mob/zombie_villager/ambient3",
-      "mob/zombie_villager/ambient4",
-      "mob/zombie_villager/ambient5"
-    ]
-  },
-  "entity.zombie_villager.hurt": {
-    "subtitle": "subtitles.entity.zombie_villager.hurt",
-    "replace": true,
-    "sounds": [
-      "mob/zombie_villager/hurt1",
-      "mob/zombie_villager/hurt2",
-      "mob/zombie_villager/hurt3"
-    ]
-  },
-  "entity.zombie_villager.death": {
-    "subtitle": "subtitles.entity.zombie_villager.death",
-    "replace": true,
-    "sounds": [
-      "mob/zombie_villager/death1",
-      "mob/zombie_villager/death2",
-      "mob/zombie_villager/death3"
-    ]
-  },
-  "entity.zombie_villager.cure": {
-    "subtitle": "subtitles.entity.zombie_villager.cure",
-    "replace": true,
-    "sounds": [
-      "mob/zombie_villager/cure1",
-      "mob/zombie_villager/cure2"
-    ]
-  },
-  "entity.zombie.ambient": {
-    "subtitle": "subtitles.entity.zombie.ambient",
-    "replace": true,
-    "sounds": [
-      "mob/zombie/ambient1",
-      "mob/zombie/ambient2",
-      "mob/zombie/ambient3",
-      "mob/zombie/ambient4",
-      "mob/zombie/ambient5"
-    ]
-  },
-  "entity.zombie.death": {
-    "subtitle": "subtitles.entity.zombie.death",
-    "replace": true,
-    "sounds": [
-      "mob/zombie/death1",
-      "mob/zombie/death2",
-      "mob/zombie/death3"
-    ]
-  },
-  "entity.zombie.hurt": {
-    "subtitle": "subtitles.entity.zombie.hurt",
-    "replace": true,
-    "sounds": [
-      "mob/zombie/hurt1"
-    ]
-  },
-  "entity.skeleton.ambient": {
-    "subtitle": "subtitles.entity.skeleton.ambient",
-    "replace": true,
-    "sounds": [
-      "mob/skeleton/ambient1",
-      "mob/skeleton/ambient2",
-      "mob/skeleton/ambient3",
-      "mob/skeleton/ambient4",
-      "mob/skeleton/ambient5"
-    ]
-  },
-  "entity.skeleton.death": {
-    "subtitle": "subtitles.entity.skeleton.death",
-    "replace": true,
-    "sounds": [
-      "mob/skeleton/death1",
-      "mob/skeleton/death2",
-      "mob/skeleton/death3"
-    ]
-  },
-  "entity.skeleton.hurt": {
-    "subtitle": "subtitles.entity.skeleton.hurt",
-    "replace": true,
-    "sounds": [
-      "mob/skeleton/hurt1",
-      "mob/skeleton/hurt2",
-      "mob/skeleton/hurt3"
-    ]
-  },
-  "entity.slime.squish": {
-    "subtitle": "subtitles.entity.slime.squish",
-    "replace": true,
-    "sounds": [
-      "mob/slime/squish"
-    ]
-  },
-  "entity.slime.squish_small": {
-    "replace": true,
-    "sounds": [
-      "mob/slime/squish_small"
-    ]
-  },
-  "entity.wither_skeleton.ambient": {
-    "subtitle": "subtitles.entity.wither_skeleton.ambient",
-    "replace": true,
-    "sounds": [
-      "mob/wither_skeleton/ambient1",
-      "mob/wither_skeleton/ambient2",
-      "mob/wither_skeleton/ambient3",
-      "mob/wither_skeleton/ambient4",
-      "mob/wither_skeleton/ambient5"
-    ]
-  },
-  "entity.wither_skeleton.death": {
-    "subtitle": "subtitles.entity.wither_skeleton.death",
-    "replace": true,
-    "sounds": [
-      "mob/wither_skeleton/death1",
-      "mob/wither_skeleton/death2",
-      "mob/wither_skeleton/death3"
-    ]
-  },
-  "entity.wither_skeleton.hurt": {
-    "subtitle": "subtitles.entity.wither_skeleton.hurt",
-    "replace": true,
-    "sounds": [
-      "mob/wither_skeleton/hurt1",
-      "mob/wither_skeleton/hurt2",
-      "mob/wither_skeleton/hurt3"
-    ]
-  },
-  "entity.vindicator.ambient": {
-    "subtitle": "subtitles.entity.vindicator.ambient",
-    "replace": true,
-    "sounds": [
-      "mob/vindicator/ambient1",
-      "mob/vindicator/ambient2",
-      "mob/vindicator/ambient3",
-      "mob/vindicator/ambient4",
-      "mob/vindicator/ambient5"
-    ]
-  },
-  "entity.vindicator.death": {
-    "subtitle": "subtitles.entity.vindicator.death",
-    "replace": true,
-    "sounds": [
-      "mob/vindicator/death1",
-      "mob/vindicator/death2",
-      "mob/vindicator/death3"
-    ]
-  },
-  "entity.vindicator.hurt": {
-    "subtitle": "subtitles.entity.vindicator.hurt",
-    "replace": true,
-    "sounds": [
-      "mob/vindicator/hurt1",
-      "mob/vindicator/hurt2",
-      "mob/vindicator/hurt3"
-    ]
-  },
-  "entity.vindicator.celebrate": {
-    "subtitle": "subtitles.entity.vindicator.celebrate",
-    "replace": true,
-    "sounds": [
-      "mob/vindicator/celebrate1",
-      "mob/vindicator/celebrate2",
-      "mob/vindicator/celebrate3"
-    ]
-  },
-  "entity.piglin.ambient": {
-    "subtitle": "subtitles.entity.piglin.ambient",
-    "replace": true,
-    "sounds": [
-      "mob/piglin/ambient1",
-      "mob/piglin/ambient2",
-      "mob/piglin/ambient3",
-      "mob/piglin/ambient4",
-      "mob/piglin/ambient5"
-    ]
-  },
-  "entity.piglin.death": {
-    "subtitle": "subtitles.entity.piglin.death",
-    "replace": true,
-    "sounds": [
-      "mob/piglin/death1",
-      "mob/piglin/death2",
-      "mob/piglin/death3"
-    ]
-  },
-  "entity.piglin.hurt": {
-    "subtitle": "subtitles.entity.piglin.hurt",
-    "replace": true,
-    "sounds": [
-      "mob/piglin/hurt1",
-      "mob/piglin/hurt2",
-      "mob/piglin/hurt3"
-    ]
-  },
-  "entity.piglin.celebrate": {
-    "subtitle": "subtitles.entity.piglin.celebrate",
-    "replace": true,
-    "sounds": [
-      "mob/piglin/celebrate1",
-      "mob/piglin/celebrate2",
-      "mob/piglin/celebrate3"
-    ]
-  },
-  "entity.piglin.admiring_item": {
-    "subtitle": "subtitles.entity.piglin.admiring_item",
-    "replace": true,
-    "sounds": [
-      "mob/piglin/admiring_item1",
-      "mob/piglin/admiring_item2",
-      "mob/piglin/admiring_item3",
-      "mob/piglin/admiring_item4"
-    ]
-  },
-  "entity.piglin.angry": {
-    "subtitle": "subtitles.entity.piglin.angry",
-    "replace": true,
-    "sounds": [
-      "mob/piglin/angry1",
-      "mob/piglin/angry2",
-      "mob/piglin/angry3"
-    ]
-  },
-  "entity.piglin.jealous": {
-    "subtitle": "subtitles.entity.piglin.jealous",
-    "replace": true,
-    "sounds": [
-      "mob/piglin/jealous1", 
-      "mob/piglin/jealous2",  
-      "mob/piglin/jealous3"  
-    ]
-  },
-  "entity.piglin.retreat": {
-    "subtitle": "subtitles.entity.piglin.retreat",
-    "replace": true,
-    "sounds": [
-      "mob/piglin/retreat1",   
-      "mob/piglin/retreat2",  
-      "mob/piglin/retreat3" 
-    ]
-  },
-  "entity.zombified_piglin.ambient": {
-    "subtitle": "subtitles.entity.zombified_piglin.ambient",
-    "replace": true,
-    "sounds": [
-      "mob/zombified_piglin/ambient1",
-      "mob/zombified_piglin/ambient2",
-      "mob/zombified_piglin/ambient3",
-      "mob/zombified_piglin/ambient4",
-      "mob/zombified_piglin/ambient5"
-    ]
-  },
-  "entity.zombified_piglin.death": {
-    "subtitle": "subtitles.entity.zombified_piglin.death",
-    "replace": true,
-    "sounds": [
-      "mob/zombified_piglin/death1",
-      "mob/zombified_piglin/death2",
-      "mob/zombified_piglin/death3"
-    ]
-  },
-  "entity.zombified_piglin.hurt": {
-    "subtitle": "subtitles.entity.zombified_piglin.hurt",
-    "replace": true,
-    "sounds": [
-      "mob/zombified_piglin/hurt1",
-      "mob/zombified_piglin/hurt2",
-      "mob/zombified_piglin/hurt3"
-    ]
-  },
-  "entity.zombified_piglin.angry": {
-    "subtitle": "subtitles.entity.zombified_piglin.angry",
-    "replace": true,
-    "sounds": [
-      "mob/zombified_piglin/angry1",
-      "mob/zombified_piglin/angry2",
-      "mob/zombified_piglin/angry3"
-    ]
-  }
+ "entity.villager.ambient": {
+ "subtitle": "разговор жителя",
+"replace": true,
+ "sounds": [
+"mob/villager/idle1",
+"mob/villager/idle2",
+"mob/villager/idle3",
+"mob/villager/idle4",
+"mob/villager/idle5",
+"mob/villager/idle6",
+"mob/villager/idle7",
+"mob/villager/idle8",
+"mob/villager/idle9"
+]
+ },
+ "entity.villager.death": {
+"subtitle": "житель умирает",
+"replace": true,
+"sounds": [
+ "mob/villager/death1",
+ "mob/villager/death2",
+ "mob/villager/death3",
+ "mob/villager/death4"
+]
+ },
+ "entity.villager.trade": {
+"subtitle": "Житель торгует",
+"replace": true,
+"sounds": [
+ "mob/villager/haggle1",
+ "mob/villager/haggle2",
+ "mob/villager/haggle3"
+]
+ },
+ "entity.villager.hurt": {
+"subtitle": "жителю больно",
+"replace": true,
+"sounds": [
+ "mob/villager/hit1",
+ "mob/villager/hit2",
+ "mob/villager/hit3",
+ "mob/villager/hit4"
+]
+ },
+ "entity.villager.no": {
+"subtitle": "житель не согласен",
+"replace": true,
+"sounds": [
+ "mob/villager/no1",
+ "mob/villager/no2",
+ "mob/villager/no3",
+ "mob/villager/no4"
+]
+ },
+ "entity.villager.yes": {
+"subtitle": "житель согласен",
+"replace": true,
+"sounds": [
+ "mob/villager/yes1",
+ "mob/villager/yes2",
+ "mob/villager/yes3",
+ "mob/villager/yes4"
+]
+ },
+ "entity.iron_golem.damage": {
+"subtitle": "железный голем ломается",
+"replace": true,
+"sounds": [
+ "mob/iron_golem/damage1",
+ "mob/iron_golem/damage2",
+ "mob/iron_golem/damage3"
+]
+ },
+ "entity.iron_golem.attack": {
+"subtitle": "железный голем атакует",
+"replace": true,
+"sounds": [
+ "mob/iron_golem/attack1",
+ "mob/iron_golem/attack2",
+ "mob/iron_golem/attack3"
+]
+ },
+ "entity.iron_golem.death": {
+"subtitle": "железный голем умирает",
+"replace": true,
+"sounds": [
+ "mob/iron_golem/death1",
+ "mob/iron_golem/death2",
+ "mob/iron_golem/death3"
+]
+ },
+ "entity.wandering_trader.ambient": {
+"subtitle": "странствующий торговец разговаривает",
+"replace": true,
+"sounds": [
+ "mob/wandering_trader/ambient1",
+ "mob/wandering_trader/ambient2",
+ "mob/wandering_trader/ambient3",
+ "mob/wandering_trader/ambient4",
+ "mob/wandering_trader/ambient5",
+ "mob/wandering_trader/ambient6",
+ "mob/wandering_trader/ambient7",
+ "mob/wandering_trader/ambient8"
+]
+ },
+ "entity.wandering_trader.death": {
+"subtitle": "странствующий торговец умирает",
+"replace": true,
+"sounds": [
+ "mob/wandering_trader/death1",
+ "mob/wandering_trader/death2",
+ "mob/wandering_trader/death3"
+]
+ },
+ "entity.wandering_trader.trade": {
+"subtitle": "странствующий торговец торгует",
+"replace": true,
+"sounds": [
+ "mob/wandering_trader/trade1",
+ "mob/wandering_trader/trade2",
+ "mob/wandering_trader/trade3",
+ "mob/wandering_trader/trade4"
+]
+ },
+ "entity.wandering_trader.hurt": {
+"subtitle": "странствующий торговец получает урон",
+"replace": true,
+"sounds": [
+ "mob/wandering_trader/hurt1",
+ "mob/wandering_trader/hurt2",
+ "mob/wandering_trader/hurt3",
+ "mob/wandering_trader/hurt4"
+]
+ },
+ "entity.wandering_trader.yes": {
+"subtitle": "странствующий торговец согласен",
+"replace": true,
+"sounds": [
+ "mob/wandering_trader/yes1",
+ "mob/wandering_trader/yes2",
+ "mob/wandering_trader/yes3"
+]
+ },
+ "entity.wandering_trader.no": {
+"subtitle": "странствующий торговец не согласен",
+"replace": true,
+"sounds": [
+ "mob/wandering_trader/no1",
+ "mob/wandering_trader/no2",
+ "mob/wandering_trader/no3"
+]
+ },
+ "entity.pillager.ambient": {
+"subtitle": "разбойник говорит",
+"replace": true,
+"sounds": [
+ "mob/pillager/ambient1",
+ "mob/pillager/ambient2",
+ "mob/pillager/ambient3",
+ "mob/pillager/ambient4",
+ "mob/pillager/ambient5",
+ "mob/pillager/ambient6"
+]
+ },
+ "entity.pillager.hurt": {
+"subtitle": "разбойник получает урон",
+"replace": true,
+"sounds": [
+ "mob/pillager/hurt1",
+ "mob/pillager/hurt2",
+ "mob/pillager/hurt3",
+ "mob/pillager/hurt4"
+]
+ },
+ "entity.pillager.death": {
+"subtitle": "разбойник умирает",
+"replace": true,
+"sounds": [
+ "mob/pillager/death1",
+ "mob/pillager/death2",
+ "mob/pillager/death3",
+ "mob/pillager/death4"
+]
+ },
+ "entity.pillager.celebrate": {
+"subtitle": "разбойник празднует",
+"replace": true,
+"sounds": [
+ "mob/pillager/victory1",
+ "mob/pillager/victory2",
+ "mob/pillager/victory3"
+]
+ },
+ "entity.witch.ambient": {
+"subtitle": "ведьма говорит",
+"replace": true,
+"sounds": [
+ "mob/witch/ambient1",
+ "mob/witch/ambient2",
+ "mob/witch/ambient3",
+ "mob/witch/ambient4",
+ "mob/witch/ambient5",
+ "mob/witch/ambient6"
+]
+ },
+ "entity.witch.attack": {
+"subtitle": "ведьма атакует",
+"replace": true,
+"sounds": [
+ "mob/witch/attack1",
+ "mob/witch/attack2",
+ "mob/witch/attack3",
+ "mob/witch/attack4"
+]
+ },
+ "entity.witch.hurt": {
+"subtitle": "ведьма получает урон",
+"replace": true,
+"sounds": [
+ "mob/witch/hurt1",
+ "mob/witch/hurt2",
+ "mob/witch/hurt3",
+ "mob/witch/hurt4"
+]
+ },
+ "entity.witch.death": {
+"subtitle": "ведьма умирает",
+"replace": true,
+"sounds": [
+ "mob/witch/death1",
+ "mob/witch/death2",
+ "mob/witch/death3",
+ "mob/witch/death4"
+]
+ },
+ "entity.witch.spell": {
+"subtitle": "ведьма колдует",
+"replace": true,
+"sounds": [
+ "mob/witch/spell1",
+ "mob/witch/spell2",
+ "mob/witch/spell3",
+ "mob/witch/spell4"
+]
+ },
+ "entity.witch.celebrate": {
+"subtitle": "ведьма празднует",
+"replace": true,
+"sounds": [
+ "mob/witch/celebrate1",
+ "mob/witch/celebrate2",
+ "mob/witch/celebrate3",
+ "mob/witch/celebrate4",
+ "mob/witch/celebrate5",
+ "mob/witch/celebrate6"
+]
+ },
+ "entity.zombie_villager.ambient": {
+"subtitle": "зомби-житель говорит",
+"replace": true,
+"sounds": [
+ "mob/zombie_villager/ambient1",
+ "mob/zombie_villager/ambient2",
+ "mob/zombie_villager/ambient3",
+ "mob/zombie_villager/ambient4",
+ "mob/zombie_villager/ambient5"
+]
+ },
+ "entity.zombie_villager.hurt": {
+"subtitle": "зомби-житель получает урон",
+"replace": true,
+"sounds": [
+ "mob/zombie_villager/hurt1",
+ "mob/zombie_villager/hurt2",
+ "mob/zombie_villager/hurt3"
+]
+ },
+ "entity.zombie_villager.death": {
+"subtitle": "зомби-житель умирает",
+"replace": true,
+"sounds": [
+ "mob/zombie_villager/death1",
+ "mob/zombie_villager/death2",
+ "mob/zombie_villager/death3"
+]
+ },
+ "entity.zombie_villager.cure": {
+"subtitle": "зомби-житель исцеляется",
+"replace": true,
+"sounds": [
+ "mob/zombie_villager/cure1",
+ "mob/zombie_villager/cure2"
+]
+ },
+ "entity.zombie.ambient": {
+"subtitle": "зомби пытается говорить",
+"replace": true,
+"sounds": [
+ "mob/zombie/ambient1",
+ "mob/zombie/ambient2",
+ "mob/zombie/ambient3",
+ "mob/zombie/ambient4",
+ "mob/zombie/ambient5"
+]
+ },
+ "entity.zombie.death": {
+"subtitle": "зомби умирает",
+"replace": true,
+"sounds": [
+ "mob/zombie/death1",
+ "mob/zombie/death2",
+ "mob/zombie/death3"
+]
+ },
+ "entity.zombie.hurt": {
+"subtitle": "зомби получает урон",
+"replace": true,
+"sounds": [
+ "mob/zombie/hurt1"
+]
+ },
+ "entity.skeleton.ambient": {
+"subtitle": "скелет разговаривает",
+"replace": true,
+"sounds": [
+ "mob/skeleton/ambient1",
+ "mob/skeleton/ambient2",
+ "mob/skeleton/ambient3",
+ "mob/skeleton/ambient4",
+ "mob/skeleton/ambient5"
+]
+ },
+ "entity.skeleton.death": {
+"subtitle": "скелет рассыпается",
+"replace": true,
+"sounds": [
+ "mob/skeleton/death1",
+ "mob/skeleton/death2",
+ "mob/skeleton/death3"
+]
+ },
+ "entity.skeleton.hurt": {
+"subtitle": "у скелета ломаются кости",
+"replace": true,
+"sounds": [
+ "mob/skeleton/hurt1",
+ "mob/skeleton/hurt2",
+ "mob/skeleton/hurt3"
+]
+ },
+ "entity.slime.squish": {
+"subtitle": "слайм приземляется",
+"replace": true,
+"sounds": [
+ "mob/slime/squish"
+]
+ },
+ "entity.slime.squish_small": {
+"subtitle": "маленький слайм приземляется",
+"replace": true,
+"sounds": [
+ "mob/slime/squish_small"
+]
+ },
+ "entity.wither_skeleton.ambient": {
+"subtitle": "визер-скелет говорит.",
+"replace": true,
+"sounds": [
+ "mob/wither_skeleton/ambient1",
+ "mob/wither_skeleton/ambient2",
+ "mob/wither_skeleton/ambient3",
+ "mob/wither_skeleton/ambient4",
+ "mob/wither_skeleton/ambient5"
+]
+ },
+ "entity.wither_skeleton.death": {
+"subtitle": "визер скилет умерает",
+"replace": true,
+"sounds": [
+ "mob/wither_skeleton/death1",
+ "mob/wither_skeleton/death2",
+ "mob/wither_skeleton/death3"
+]
+ },
+ "entity.wither_skeleton.hurt": {
+"subtitle": "визер-скелет получает урон",
+"replace": true,
+"sounds": [
+ "mob/wither_skeleton/hurt1",
+ "mob/wither_skeleton/hurt2",
+ "mob/wither_skeleton/hurt3"
+]
+ },
+ "entity.vindicator.ambient": {
+"subtitle": "поборник разговаривает",
+"replace": true,
+"sounds": [
+ "mob/vindicator/ambient1",
+ "mob/vindicator/ambient2",
+ "mob/vindicator/ambient3",
+ "mob/vindicator/ambient4",
+ "mob/vindicator/ambient5"
+]
+ },
+ "entity.vindicator.death": {
+"subtitle": "поборник умирает",
+"replace": true,
+"sounds": [
+ "mob/vindicator/death1",
+ "mob/vindicator/death2",
+ "mob/vindicator/death3"
+]
+ },
+ "entity.vindicator.hurt": {
+"subtitle": "поборник получает урон",
+"replace": true,
+"sounds": [
+ "mob/vindicator/hurt1",
+ "mob/vindicator/hurt2",
+ "mob/vindicator/hurt3"
+]
+ },
+ "entity.vindicator.celebrate": {
+"subtitle": "поборник празднует",
+"replace": true,
+"sounds": [
+ "mob/vindicator/celebrate1",
+ "mob/vindicator/celebrate2",
+ "mob/vindicator/celebrate3"
+]
+ },
+ "entity.piglin.ambient": {
+"subtitle": "пиглин говорит",
+"replace": true,
+"sounds": [
+ "mob/piglin/ambient1",
+ "mob/piglin/ambient2",
+ "mob/piglin/ambient3",
+ "mob/piglin/ambient4",
+ "mob/piglin/ambient5"
+]
+ },
+ "entity.piglin.death": {
+"subtitle": "пиглин умирает",
+"replace": true,
+"sounds": [
+ "mob/piglin/death1",
+ "mob/piglin/death2",
+ "mob/piglin/death3"
+]
+ },
+ "entity.piglin.hurt": {
+"subtitle": "пиглин получает урон",
+"replace": true,
+"sounds": [
+ "mob/piglin/hurt1",
+ "mob/piglin/hurt2",
+ "mob/piglin/hurt3"
+]
+ },
+ "entity.piglin.celebrate": {
+"subtitle": "пиглин празднует",
+"replace": true,
+"sounds": [
+ "mob/piglin/celebrate1",
+ "mob/piglin/celebrate2",
+ "mob/piglin/celebrate3"
+]
+ },
+ "entity.piglin.admiring_item": {
+"subtitle": "пиглин подбирает предмет",
+"replace": true,
+"sounds": [
+ "mob/piglin/admiring_item1",
+ "mob/piglin/admiring_item2",
+ "mob/piglin/admiring_item3",
+ "mob/piglin/admiring_item4"
+]
+ },
+ "entity.piglin.angry": {
+"subtitle": "пиглин злобно говорит",
+"replace": true,
+"sounds": [
+ "mob/piglin/angry1",
+ "mob/piglin/angry2",
+ "mob/piglin/angry3"
+]
+ },
+ "entity.piglin.jealous": {
+"subtitle": "пиглин завидует",
+"replace": true,
+"sounds": [
+ "mob/piglin/jealous1",
+ "mob/piglin/jealous2", 
+ "mob/piglin/jealous3" 
+]
+ },
+ "entity.piglin.retreat": {
+"subtitle": "пиглин отступает",
+"replace": true,
+"sounds": [
+ "mob/piglin/retreat1", 
+ "mob/piglin/retreat2", 
+ "mob/piglin/retreat3"
+]
+ },
+ "entity.zombified_piglin.ambient": {
+"subtitle": "зомбированный пиглин говорит",
+"replace": true,
+"sounds": [
+ "mob/zombified_piglin/ambient1",
+ "mob/zombified_piglin/ambient2",
+ "mob/zombified_piglin/ambient3",
+ "mob/zombified_piglin/ambient4",
+ "mob/zombified_piglin/ambient5"
+]
+ },
+ "entity.zombified_piglin.death": {
+"subtitle": "зомбированный пиглин умирает",
+"replace": true,
+"sounds": [
+ "mob/zombified_piglin/death1",
+ "mob/zombified_piglin/death2",
+ "mob/zombified_piglin/death3"
+]
+ },
+ "entity.zombified_piglin.hurt": {
+"subtitle": "зомбированный пиглин получает урон",
+"replace": true,
+"sounds": [
+ "mob/zombified_piglin/hurt1",
+ "mob/zombified_piglin/hurt2",
+ "mob/zombified_piglin/hurt3"
+]
+ },
+ "entity.zombified_piglin.angry": {
+"subtitle": "зомбированный пиглин злобно разговаривает",
+"replace": true,
+"sounds": [
+ "mob/zombified_piglin/angry1",
+ "mob/zombified_piglin/angry2",
+ "mob/zombified_piglin/angry3"
+]
+ },
+ "entity.bogged.ambient": {
+"subtitle": "болотник пытается говорить",
+"replace": true,
+"sounds": [
+ "mob/bogged/ambient1",
+ "mob/bogged/ambient2",
+ "mob/bogged/ambient3",
+ "mob/bogged/ambient4",
+ "mob/bogged/ambient5"
+]
+ },
+ "entity.bogged.death": {
+"subtitle": "болотник умирает",
+"replace": true,
+"sounds": [
+ "mob/bogged/death1",
+ "mob/bogged/death2",
+ "mob/bogged/death3"
+]
+ },
+ "entity.bogged.hurt": {
+"subtitle": "болотник получает урон",
+"replace": true,
+"sounds": [
+ "mob/bogged/hurt1",
+ "mob/bogged/hurt2",
+ "mob/bogged/hurt3"
+]
+},
+ "entity.drowned.ambient": {
+"subtitle": "утопленик говорит",
+"replace": true,
+"sounds": [
+ "mob/drowned/ambient1",
+ "mob/drowned/ambient2",
+ "mob/drowned/ambient3",
+ "mob/drowned/ambient4",
+ "mob/drowned/ambient5"
+]
+ },
+ "entity.drowned.death": {
+"subtitle": "утопленик умирает",
+"replace": true,
+"sounds": [
+ "mob/drowned/death1",
+ "mob/drowned/death2",
+ "mob/drowned/death3"
+]
+ },
+ "entity.drowned.hurt": {
+"subtitle": "утопленик получает урон",
+"replace": true,
+"sounds": [
+ "mob/drowned/hurt1",
+ "mob/drowned/hurt2",
+ "mob/drowned/hurt3"
+]
+},
+ "entity.drowned.ambient_water": {
+"subtitle": "утопленик говорит под водой",
+"replace": true,
+"sounds": [
+ "mob/drowned/ambient_water1",
+ "mob/drowned/ambient_water2",
+ "mob/drowned/ambient_water3",
+ "mob/drowned/ambient_water4",
+ "mob/drowned/ambient_water5"
+]
+ },
+ "entity.drowned.death_water": {
+"subtitle": "утопленик умирает под водой",
+"replace": true,
+"sounds": [
+ "mob/drowned/death_water1",
+ "mob/drowned/death_water2",
+ "mob/drowned/death_water3"
+]
+ },
+ "entity.drowned.hurt_water": {
+"subtitle": "утопленик получает урон под водой",
+"replace": true,
+"sounds": [
+ "mob/drowned/hurt_water1",
+ "mob/drowned/hurt_water2",
+ "mob/drowned/hurt_water3"
+]
+}
 }
